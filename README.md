@@ -1,4 +1,4 @@
-# ## 1. Project Title
+## 1. Project Title
 Credit Card Dashboard – Power BI
 
 ## 2. Introduction
